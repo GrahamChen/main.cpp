@@ -36,5 +36,6 @@ int main() {
     Solution tihuan;
     s=tihuan.reolaceSpace(s);
     std::cout << s << std::endl;
+    std::cout << "中文" << std::endl;
     return 0;
 }
