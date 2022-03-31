@@ -1,0 +1,24 @@
+# ninja log v5
+3	324	6701746869135990	CMakeFiles/leetcode3.dir/solution.cpp.obj	c9f152ac5685ccba
+3	388	6701725473696390	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+388	525	6701725475062739	leetcode3.exe	ecfdfa6d7b79086f
+1	126	6701747469209639	build.ninja	b33daaace92eb50d
+9	319	6701749282057742	CMakeFiles/leetcode3.dir/solution.cpp.obj	c9f152ac5685ccba
+2	347	6701751298545094	CMakeFiles/leetcode3.dir/solution.cpp.obj	c9f152ac5685ccba
+8	403	6701751299103595	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+403	545	6701751300499864	leetcode3.exe	ecfdfa6d7b79086f
+9	350	6701759741506985	CMakeFiles/leetcode3.dir/solution.cpp.obj	c9f152ac5685ccba
+4	416	6701759742165356	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+416	559	6701759743561620	leetcode3.exe	ecfdfa6d7b79086f
+3	389	6701759805293852	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+389	529	6701759806680140	leetcode3.exe	ecfdfa6d7b79086f
+2	393	6701759858783795	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+394	536	6701759860190034	leetcode3.exe	ecfdfa6d7b79086f
+3	430	6701769528716217	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+430	588	6701769530296767	leetcode3.exe	ecfdfa6d7b79086f
+3	396	6701769665976552	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+397	537	6701769667376243	leetcode3.exe	ecfdfa6d7b79086f
+3	409	6701769706147675	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+409	545	6701769707484102	leetcode3.exe	ecfdfa6d7b79086f
+4	443	6701769762460362	CMakeFiles/leetcode3.dir/main.cpp.obj	146e6f05f57e63d1
+444	594	6701769763926431	leetcode3.exe	ecfdfa6d7b79086f
